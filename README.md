@@ -1,2 +1,2 @@
 # KatasCSSFrontEnd
-Aquí está la practica de la semana tres del curso de LaunchX
+Aquí está la práctica de la semana tres del curso de LaunchX
